@@ -1,0 +1,15 @@
+{
+    "initialize": {
+        "label": {
+			"name" : "名前",
+            "make" : "フローの設定ファイル(config.json)を作成する",
+            "connect" : "外部からの接続を許可する"
+		},
+        "status": {
+            "started": "TP起動済",
+            "stopped": "TP停止",
+            "fwUpdate": "F/W 更新中...",
+            "fwUpdateFailed": "F/W 更新失敗"
+        }
+    }
+}
